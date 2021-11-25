@@ -1,8 +1,9 @@
-### Hi there 👋, my name is Robert
+### Hi there ✋🏼, my name is Robert
 #### I am IOS Developer
 
-I am a junior iOS developer with hands-on experience ✋🏼
-I am well versed in the Swift. Everyday I develop my own projects or study the possibilities of the language and modern frameworks.
+I am a junior iOS developer with hands-on experience ! 🐸
+I am well versed in the Swift ✌🏻
+Everyday I develop my own projects or study the possibilities of the language and modern frameworks. 📚
 
 **Skills** 
 
