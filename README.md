@@ -1,7 +1,8 @@
 ### Hi there ✋🏼, my name is Robert 🦊
 #### I am IOS Developer
 
-Currently I am learning Swift posibilities and modern frameworks ✌🏻  
+I am learning Swift posibilities and modern frameworks ✌🏻 \
+Currently i am working on my main pet project YOUP
 
 **Skills** 
 
