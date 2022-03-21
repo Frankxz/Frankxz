@@ -2,7 +2,7 @@
 #### I am IOS Developer
 
 I am learning Swift posibilities and modern frameworks ✌🏻 \
-Currently i am working on my main pet project YOUP
+Currently I am reviewing my knowledge after breaks and getting ready for a job search
 
 **Skills** 
 
