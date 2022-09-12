@@ -10,7 +10,7 @@ Currently I am working on outsource company and want to find a new good place fo
 ◻️ Data storage: CoreData, Realm, Firebase, UserDefaults \
 ◻️ Animations: Spring, CoreAnimation \
 ◻️ Technologies: UIKit, SwiftUI, Autolayout, GIT, SOLID, MapKit \
-◻️ Architectures: MVС, MVP
+◻️ Architectures: MVС, MVP \
 ◻️ Dependency Managers: CocoaPods \
 ◻️ Testing: TDD, Unit Testing / UI Testing \
 
