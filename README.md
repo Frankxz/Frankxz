@@ -2,7 +2,7 @@
 #### I am IOS Developer
 
 I am learning Swift posibilities and modern frameworks ✌🏻 \
-Currently I am reviewing my knowledge after breaks and getting ready for a job search
+Currently I am working on outsource company and want to find a new good place for a job \
 
 **Skills** 
 
@@ -10,9 +10,9 @@ Currently I am reviewing my knowledge after breaks and getting ready for a job s
 ◻️ Data storage: CoreData, Realm, Firebase, UserDefaults \
 ◻️ Animations: Spring, CoreAnimation \
 ◻️ Technologies: UIKit, SwiftUI, Autolayout, GIT, SOLID, MapKit \
-◻️ Architectures: MVС, VIPER, MVVM, Clean Swift\
+◻️ Architectures: MVС, MVP
 ◻️ Dependency Managers: CocoaPods \
-◻️ Testing: TDD, Unit Testing / UI Testing 
+◻️ Testing: TDD, Unit Testing / UI Testing \
 
 
 
