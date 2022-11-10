@@ -1,8 +1,6 @@
-### Hi there ✋🏼, my name is Robert 🦊
-#### I am IOS Developer
+# Hi there ✋🏼, my name is Robert 🦊
+## I am IOS Developer.
 
-I am learning Swift posibilities and modern frameworks ✌🏻 \
-Currently I am working on outsource company and want to find a new good place for a job 
 
 **Skills** 
 
