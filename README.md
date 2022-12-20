@@ -1,15 +1,16 @@
-# Hi there ✋🏼, my name is Robert 🦊
-## I am IOS Developer.
+# Robert Miller 
+## IOS dev
 
 
-**Skills** 
+**Stack** 
 
 ◻️ Networking: Alamofire, URLSession \
 ◻️ Data storage: CoreData, Realm, Firebase, UserDefaults \
-◻️ Animations: Spring, CoreAnimation \
-◻️ Technologies: UIKit, SwiftUI, Autolayout, GIT, SOLID, MapKit \
-◻️ Architectures: MVС, MVP, MVVM \
+◻️ Animations: Spring, CoreAnimation, Lottie \
+◻️ Technologies: UIKit, SwiftUI, Autolayout, GIT, SOLID, MapKit, SnapKit \
+◻️ Architectures: MVС, MVP, MVVM, VIPER \
 ◻️ Dependency Managers: CocoaPods \
+◻️ Tools: SwiftLint, XcodeGen, RSwift \
 ◻️ Testing: TDD, Unit Testing / UI Testing \
 
 
